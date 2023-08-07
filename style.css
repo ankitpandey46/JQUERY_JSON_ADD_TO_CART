@@ -1,0 +1,36 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+}
+.img-thumbnail{
+    height: 50vh;
+    width: 300px;
+    margin-left: 20px;
+    border: 2px solid black ;
+    margin-top: 10px;
+}
+.btn{
+    margin-left: 120px ;
+    margin-bottom: 20px;
+    background-color: rgb(140, 225, 213);
+    border: 1px solid black;
+}
+sup{
+    color: red;
+    font-size: larger;
+}
+.img{
+    height: 15vh;
+    width: 100px;
+}
+
+  .row1{
+    border-bottom: 1px solid white;
+    color: white;
+  }
+
+  .text1{
+    padding-top: 30px;
+  }
